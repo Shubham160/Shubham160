@@ -35,6 +35,6 @@ I am an AI/ML Engineer with a Post Graduate specialization in Artificial Intelli
 
 ### 📫 Connect with Me:
 
-[LinkedIn](www.linkedin.com/in/shubhamagrawal01) | [cite_start][Email](mailto:SSAgrawal753@gmail.com)
+[LinkedIn](www.linkedin.com/in/shubhamagrawal01) | [Email](SSAgrawal753@gmail.com)
 
 > "Focusing on architectural elegance and data-driven decisions."
