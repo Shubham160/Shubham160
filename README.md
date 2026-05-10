@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer | Generative AI, LLMs & VLMs | Microservice Architecture
 
-[cite_start]I am an AI/ML Engineer with a Post Graduate specialization in Artificial Intelligence and Machine Learning[cite: 50, 55]. I specialize in bridging the gap between core machine learning algorithms and modern generative AI technologies (LLMs and VLMs). My focus is on architecting intelligent, scalable backend systems and Human-in-the-Loop (HITL) workflows that solve complex domain-specific problems.
+I am an AI/ML Engineer with a Post Graduate specialization in Artificial Intelligence and Machine Learning. I specialize in bridging the gap between core machine learning algorithms and modern generative AI technologies (LLMs and VLMs). My focus is on architecting intelligent, scalable backend systems and Human-in-the-Loop (HITL) workflows that solve complex domain-specific problems.
 
 ---
 
@@ -19,22 +19,22 @@
 
 | Category | Technologies & Concepts |
 | :--- | :--- |
-| **Machine Learning & AI** | [cite_start]Deep Learning, Statistical Analysis, Forecasting, Pattern Recognition[cite: 74]. |
+| **Machine Learning & AI** | Deep Learning, Statistical Analysis, Forecasting, Pattern Recognition. |
 | **Generative AI** | LLMs, VLMs (Gemini Vision Pro), RAG Pipelines, Prompt Engineering, AI-driven OCR. |
-| **Backend Architecture** | [cite_start]Python[cite: 72], FastAPI, Microservices, Asyncio, REST APIs, System Decoupling. |
-| **Data Processing** | [cite_start]Multi-source ETL [cite: 36][cite_start], Data Validation [cite: 70][cite_start], PySpark [cite: 71][cite_start], SQL[cite: 72]. |
+| **Backend Architecture** | Python, FastAPI, Microservices, Asyncio, REST APIs, System Decoupling. |
+| **Data Processing** | Multi-source ETL, Data Validation, PySpark. |
 
 ---
 
 ## 📈 Academic Background
 
-* [cite_start]**Post Graduate in AI/ML** - Lambton College, Canada (2023 - 2025) 
-* [cite_start]**B.C.A.** - Gujarat University (2018 - 2021) 
+* **Post Graduate in AI/ML** - Lambton College, Canada (2023 - 2025) 
+* **B.C.A.** - Gujarat University (2018 - 2021) 
 
 ---
 
 ### 📫 Connect with Me:
 
-[LinkedIn](www.linkedin.com/in/shubhamagrawal01) | [cite_start][Email](mailto:SSAgrawal753@gmail.com) [cite: 2, 47, 76]
+[LinkedIn](www.linkedin.com/in/shubhamagrawal01) | [cite_start][Email](mailto:SSAgrawal753@gmail.com)
 
-> [cite_start]"Focusing on architectural elegance and data-driven decisions." [cite: 6, 30, 53]
+> "Focusing on architectural elegance and data-driven decisions."
